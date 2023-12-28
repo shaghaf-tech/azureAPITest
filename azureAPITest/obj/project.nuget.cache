@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcfEdams4D2XsnDf4hjJhoCgYh03rPdbhuyQlmpQZmqQGNTeOXYQQEnkbE+Qvcu7y3H1INLIWJfSyU6x2JQkiQ==",
+  "success": true,
+  "projectFilePath": "/Users/anhar/Projects/azureAPITest/azureAPITest/azureAPITest.csproj",
+  "expectedPackageFiles": [
+    "/Users/anhar/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/anhar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

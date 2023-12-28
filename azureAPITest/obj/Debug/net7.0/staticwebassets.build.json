@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eVioXY0yqdtIhSz9kKWH8bEm965UEnt5avMOQydtr2E=",
+  "Source": "azureAPITest",
+  "BasePath": "_content/azureAPITest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
