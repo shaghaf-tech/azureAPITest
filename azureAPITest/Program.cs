@@ -13,6 +13,7 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
 
+// utcNow
 app.MapGet("time/utc", () => Results.Ok(DateTime.UtcNow));
 
 app.UseHttpsRedirection();
